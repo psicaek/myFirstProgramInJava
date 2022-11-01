@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /* Nested IFS:
 To qualify for a loan a person must make at least 30000$
-and havw been working at their current job for at least 2 years.
+and have been working at their current job for at least 2 years.
  */
 public class LoanQualifier {
 
